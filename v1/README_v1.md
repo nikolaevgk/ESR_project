@@ -1,3 +1,3 @@
 Версия 1
 
-git add Screenshot_1.png
+![](https://github.com/nikolaevgk/ESR_project/blob/main/v1/Screenshots/Screenshot_1.png)
