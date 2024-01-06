@@ -1,6 +1,4 @@
 # это используется в информационном поле window2
-import numpy as np
-
 version = "Position v2.0\n" \
           "\n" \
           "6.01.24"
@@ -43,6 +41,8 @@ from Prepare_data_ESRproject import prepare_table_data_from_txt, put_table_in_qt
 from Mpl_ESRproject import prepare_canavas_and_toolbar
 from Fitting_ESRproject import *
 from Load_data_ESRproject import *
+
+import numpy as np
 
 
 class MainWindow(QMainWindow, Ui_MainWindow, QWidget):
