@@ -1,0 +1,1 @@
+pyuic5 C:\Users\nikol\Desktop\main\pythonProject\ui\QtCreator_ESRproject_v3.ui -o C:\Users\nikol\Desktop\main\pythonProject\QtCreator_ESRproject.py
